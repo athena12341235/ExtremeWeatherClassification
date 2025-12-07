@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Fine-tune a pretrained EfficientNetV2 for Extreme vs Normal weather classification
 and produce Grad-CAM visualizations.
